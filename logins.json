@@ -2,14 +2,14 @@
     "users": [
         {"name": "JohnDoe", "code": "1234"},
         {"name": "tejas", "code": "3617"},
-        {"name": "admin", "code": "6611"}
-        {"name": "aaisha", "code": "9579"}
-        {"name": "arshad", "code": "9579"}
-        {"name": "gururaj", "code": "8380"}
-        {"name": "Siddharth", "code": "8482"}
-        {"name": "aryan", "code": "9156"}
-        {"name": "kartika", "code": "9175"}
-        {"name": "aarushi", "code": "7038"}
+        {"name": "admin", "code": "6611"},
+        {"name": "aaisha", "code": "9579"},
+        {"name": "arshad", "code": "9579"},
+        {"name": "gururaj", "code": "8380"},
+        {"name": "Siddharth", "code": "8482"},
+        {"name": "aryan", "code": "9156"},
+        {"name": "kartika", "code": "9175"},
+        {"name": "aarushi", "code": "7038"},
         {"name": "bindiya", "code": "8603"}
     ]
 }
